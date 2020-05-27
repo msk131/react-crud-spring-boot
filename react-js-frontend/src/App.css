@@ -1,0 +1,65 @@
+
+.wrapper{
+
+  background: rgba(255, 0, 0, 0.5);
+
+  margin: 12% 25%;
+  padding: 10px;
+  width: 40%;
+}
+
+body{
+
+
+}
+
+div{
+
+  padding-left: 60px;
+
+}
+
+form{
+
+  padding:10px;
+}
+
+
+input{
+
+  padding: 10px;
+  margin: 10px;
+  width: 50%;
+}
+
+label{
+
+  padding: 5px;
+  width: 50%;
+}
+
+.firstName{
+
+
+}
+.email input{
+
+  margin-left: 53px;
+}
+.password input{
+
+  margin-left: 22px;
+}
+
+button{
+
+  background: rgba(0, 205, 200, 0.9);
+  padding: 10px;
+  font-size: 15px;
+  font-weight: bold;;
+}
+
+.App-header{
+
+  text-align: center;
+}
